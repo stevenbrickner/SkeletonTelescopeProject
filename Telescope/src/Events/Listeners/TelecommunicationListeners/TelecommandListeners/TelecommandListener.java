@@ -1,0 +1,6 @@
+package Events.Listeners.TelecommunicationListeners.TelecommandListeners;
+
+import Events.Listeners.TelecommunicationListeners.TelecommunicationListener;
+
+public interface TelecommandListener extends TelecommunicationListener {
+}

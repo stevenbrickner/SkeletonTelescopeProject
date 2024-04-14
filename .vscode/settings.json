@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "Telescope/src",
+        "GroundControl/src"
+    ],
+    "java.project.referencedLibraries": [],
+    "java.project.outputPath": "Telescope\\bin"
+}
